@@ -2,7 +2,7 @@
 
 l = list(input('Enter the elements of list : ').split())
 l.sort(reverse=True)
-print(l)
+print('List in descending order : ',l)
 
 
 
